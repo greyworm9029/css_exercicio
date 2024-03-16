@@ -1,0 +1,55 @@
+/*
+**** Formatação textual ****
+*/
+#netflix-text{
+    color: red;
+}
+
+
+#prime-text{
+    color: blue;
+}
+
+#star-text{
+    color: white;
+}
+
+#android-text{
+    color: aqua;
+}
+
+#apple-text{
+    color: cadetblue;
+}
+
+#windows-text{
+    color:deeppink;
+}
+
+/*
+**** Formatação visual ****
+*/
+
+#visual-netflix{
+    background-color: antiquewhite;
+}
+
+#visual-prime{
+    background-color: bisque;
+}
+
+#visual-star{
+    background-color: grey;
+}
+
+#visual-android{
+    background-color: gold;
+}
+
+#visual-ios{
+    background-color: chocolate;
+}
+
+#visual-winphone{
+    background-color: aliceblue;
+}
